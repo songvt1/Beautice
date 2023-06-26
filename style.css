@@ -18,7 +18,7 @@ body {
 /* Site header*/
 /* -------------------------------------------------------------------------------------------------------------------- */
 body > .container {
-  background-image: url(../assets/img/SlideBackground.png);
+  background-image: url(./assets/img/SlideBackground.png);
   background-repeat: no-repeat;
 }
 
@@ -252,7 +252,7 @@ body > .container {
   width: 100%;
   height: 900px;
 
-  background-image: url("../assets/img/BackgroundBubble.png");
+  background-image: url("./assets/img/BackgroundBubble.png");
   background-repeat: no-repeat;
   background-position: right top;
   background-size: contain, cover;
@@ -297,7 +297,7 @@ body > .container {
   margin-right: 88px;
   margin-top: 134px;
   border-radius: 12%;
-  background-image: url("../assets/img/unsplash_LRXYS0tSyGc.png");
+  background-image: url("./assets/img/unsplash_LRXYS0tSyGc.png");
   background-position: center;
   background-size: contain, cover;
 }
@@ -428,7 +428,7 @@ body > .container {
 /* -------------------------------------------------------------------------------------------------------------------- */
 
 .contact {
-  background-image: url("../assets/img/BackgroundContact.png");
+  background-image: url("./assets/img/BackgroundContact.png");
   background-position: top left;
   background-repeat: no-repeat;
   background-size: contain, cover;
@@ -521,8 +521,8 @@ body > .container {
   width: 100%;
   padding: 70px 0px 0px;
 
-  background-image: url("../assets/img/FooterBG.png"),
-    url("../assets/img/BottomBG.png");
+  background-image: url("./assets/img/FooterBG.png"),
+    url("./assets/img/BottomBG.png");
   background-repeat: no-repeat, no-repeat;
   background-position: bottom left, bottom left;
 
