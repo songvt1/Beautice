@@ -159,10 +159,13 @@
   .about-us {
     height: 100%;
     margin-top: 320px;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
+  }
+
+  .about-us .image {
+    background-size: contain, cover;
   }
 
   .about-us .content {
