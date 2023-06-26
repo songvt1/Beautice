@@ -60,7 +60,7 @@
 
 @media only screen and (max-width: 1200px) {
   .footer .pages {
-    margin-right: 100px;
+    margin-right: -60px;
   }
 }
 
